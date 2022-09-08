@@ -4,7 +4,6 @@ db.produtos.updateMany(
     ingredientes: "ketchup",
   } },
 );
-
 db.produtos.find(
   {},
   {
