@@ -7,7 +7,7 @@ Este projeto se trata de um banco de dados `commerce`, que contém dados do card
 ---
 Eu [Andrey R. Visniewski](https://github.com/Andreyrvs) criei os arquivos contidos no diretorio `challenges`.
 
-Todos arquivos exceto os citados acima foram desenvolvidos pela [Trybe](https://www.betrybe.com/)
+Os arquivos contidos em `assets/produtos` foram desenvolvidos pela [Trybe](https://www.betrybe.com/)
 
 ---
 
