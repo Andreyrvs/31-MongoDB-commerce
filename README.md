@@ -44,15 +44,15 @@ Adquiri essas habilidades ao desenvolver esse projeto:
   docker run -d --name=mongodb_commerce -v "$PWD:/app" -p 27017:27017 mongo:5.0
   ```
 
-> Back-end
+  > Back-end
 
-  ```bash
-  docker exec -it mongodb_commerce bash
-  cd app/
-  ```
+    ```bash
+    docker exec -it mongodb_commerce bash
+    cd app/
+    ```
 
-> Banco de dados
+  > Banco de dados
 
-  ```bash
-  DBNAME=commerce ./scripts/resetdb.sh assets/produtos
-  ```
+    ```bash
+    DBNAME=commerce ./scripts/resetdb.sh assets/produtos
+    ```
